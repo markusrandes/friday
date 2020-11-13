@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\friday\friday\obj\Debug\netcoreapp3.1\friday.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\friday\friday\obj\Debug\netcoreapp3.1\friday.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\friday\friday\obj\Debug\netcoreapp3.1\friday.AssemblyInfo.cs
+C:\Users\opilane\source\repos\friday\friday\obj\Debug\netcoreapp3.1\friday.csproj.CoreCompileInputs.cache
